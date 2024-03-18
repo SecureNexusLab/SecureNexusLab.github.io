@@ -103,7 +103,13 @@ theme: volantis
 deploy:
   - type: git
     repo: git@github.com:SecureNexusLab/SecureNexusLab.github.io.git
-    branch: main
-    extend_dirs:
+    extend_dirs: 
       - source
-    message: "Github CI Auto Builder at {{ now('MM-DD HH:mm:ss Z') }}"
+    branch: gh-pages
+  - type: git
+    repo: git@github.com:SecureNexusLab/SecureNexusLab.github.io.git
+    branch: main
+    extend_dirs: /
+    ignore_hidden: false
+    ignore_pattern:
+      public: .

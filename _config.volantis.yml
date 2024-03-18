@@ -20,11 +20,11 @@ cover:
     - name: 分类
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
-      url: faqs/
+      url: /categories/
     - name: 标签
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
-      url: /examples/
+      url: /tags/
     - name: 成员
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
@@ -250,7 +250,7 @@ sidebar:
         - icon: fa-solid fa-envelope
           url: mailto:me@xxx.com
         - icon: fab fa-github
-          url: https://github.com/volantis-x/
+          url: https://github.com/SecureNexusLab
         - icon: fa-solid fa-headphones-alt
           url: /
     # ---------------------------------------
@@ -318,7 +318,7 @@ sidebar:
           unit: '篇'
         runtime:
           enable: false
-          data: '2020/01/01'    # 填写建站日期
+          data: '2024/02/21'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:
@@ -348,3 +348,38 @@ sidebar:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
 ############################### Sidebar ############################### > end
+
+############################### Site Footer ############################### > start
+site_footer:
+  # layout of footer: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, analytics, info, copyright]
+  social:
+    - icon: #fa-solid fa-rss
+      url:
+    # or
+    - img:
+      url:
+    # or
+    - avatar:
+      url:
+  # site source
+  source: https://github.com/volantis-x/volantis-docs/
+  # analytics using leancloud
+  analytics: >
+    <span id="lc-pv">本站总访问量为 <span id='busuanzi_value_site_pv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
+    <span id="lc-uv">访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
+  # site copyright
+  copyright: '[Copyright © since 2024 SecureNexusLab Team](/)'
+  # You can add your own property here. (Support markdown, for example: br: '<br>')
+  br: '<br>'
+############################### Site Footer ############################### > end
+
+
+############################### Analytics ############################### > start
+analytics:
+  busuanzi: https://npm.elemecdn.com/penndu@1.0.0/bsz.js #volantis-static/libs/busuanzi/js/busuanzi.pure.mini.js #https://cdn.jsdelivr.net/gh/volantis-x/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js
+  leancloud: # 请使用自己的 id & key 以防止数据丢失
+    app_id: # u9j57bwJod4EDmXWdxrwuqQT-MdYXbMMI
+    app_key: # jfHtEKVE24j0IVCGHbvuFClp
+    custom_api_server: # 国际版一般不需要写，除非自定义了 API Server
+############################### Analytics ############################### > end
