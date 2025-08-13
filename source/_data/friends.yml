@@ -1,0 +1,231 @@
+- group: Web安全小组 # 分组标题
+  description: # 分组描述
+  items:
+    - title: 彦语 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596989f345e8d03b00186.jpg # 头像
+      url: https://yanyusec.github.io/ # 链接
+      description: '趁赤诚仍在，趁年华尚好' # 描述
+    - title: i3eg1nner # 名称
+      avatar: https://pic.imgdb.cn/item/65c596a79f345e8d03b01a39.png # 头像
+      url: https://i3eg1nner.github.io/ # 链接
+      description: '生命不息，折腾不止' # 描述
+    - title: 【白】 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596999f345e8d03b001e7.png # 头像
+      url: http://www.wangehacker.cn # 链接
+      description: '热爱的事情，一定有所收获' # 描述
+    - title: 怕踩的土豆雷 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596839f345e8d03afde99.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: 'Try Harder' # 描述    
+    - title: 安稳 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596849f345e8d03afdf5e.jpg # 头像
+      url: https://tddddddddd.github.io # 链接
+      description: '关关难过关关过' # 描述
+    - title: root # 名称
+      avatar: https://pic.imgdb.cn/item/65c596849f345e8d03afdf23.png # 头像
+      url: https://chenchanghui.github.io # 链接
+      description: '越努力，越幸运' # 描述      
+    - title: 浅忆 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596909f345e8d03aff347.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '人若无名，便可潜心练剑' # 描述
+    - title: 佛系白猫 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596909f345e8d03aff367.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '拯救世界，保护地球' # 描述
+    - title: whistleH # 名称
+      avatar: https://pic.imgdb.cn/item/65c596909f345e8d03aff3cb.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '天青色等烟雨，而我在等你' # 描述
+    - title: X1admin # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e0758cb8da5c8b698ce.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '能一直进步就够了' # 描述
+
+    - title: IntAX # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e0e58cb8da5c8b69927.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '挖到RCE就转行' # 描述
+
+    - title: 卷柏 # 名称
+      avatar: https://pic1.imgdb.cn/item/6877120058cb8da5c8b631c9.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '落魄安抚，在线炒饭。' # 描述
+
+    - title: Funky! # 名称
+      avatar: https://pic1.imgdb.cn/item/68771dcc58cb8da5c8b69604.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '悟已往之不谏 知来者之可追' # 描述
+
+    - title: wanheiqiyihu / 阅 # 名称
+      avatar: https://pic1.imgdb.cn/item/68771dcb58cb8da5c8b695f5.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '能和我搞一辈子网络安全吗' # 描述
+
+    - title: yanxiao # 名称
+      avatar: https://pic1.imgdb.cn/item/6877120058cb8da5c8b631cf.jpg # 头像
+      url: https://www.cnblogs.com/yanxiao777 # 链接
+      description: '是难还是懒喃' # 描述
+
+    - title: 神农 # 名称
+      avatar: https://pic1.imgdb.cn/item/6877120158cb8da5c8b631f6.jpg # 头像
+      url: https://xz.aliyun.com/users/141291/news # 链接
+      description: '相信坚持，一定有收获！' # 描述
+
+    - title: 段熊猫 # 名称
+      avatar: https://pic1.imgdb.cn/item/6877120158cb8da5c8b631f4.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '昨日晴空' # 描述
+
+- group: 二进制小组 # 分组标题
+  description: # 分组描述
+  items:
+    - title: MOUCHEN # 名称
+      avatar: https://pic1.imgdb.cn/item/687725b558cb8da5c8b6eab0.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+    - title: Kidder1 # 名称
+      avatar: https://pic1.imgdb.cn/item/687725b558cb8da5c8b6eaac.jpg # 头像
+      url: https://kidder1.github.io/ # 链接
+      description: '     ' # 描述
+    - title: unpWn4bl3 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596849f345e8d03afe0a1.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '想要一觉醒来年入百洞' # 描述
+    - title: 郭小白QAQ # 名称
+      avatar: https://pic.imgdb.cn/item/65c596859f345e8d03afe0fd.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '精彩不亮丽，起落是无常' # 描述
+    - title: re1wn # 名称
+      avatar: https://pic.imgdb.cn/item/65c596909f345e8d03aff3a3.jpg # 头像
+      url: https://blog.csdn.net/weixin_45055269 # 链接
+      description: '一个热爱信息安全的小白' # 描述
+
+    - title: 4n4gar1ka # 名称
+      avatar: https://pic.imgdb.cn/item/65c596989f345e8d03b00153.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '无法驾驭自身的人，将永远是奴隶' # 描述
+    - title: Jarvis # 名称
+      avatar: https://pic1.imgdb.cn/item/687725b458cb8da5c8b6eaa0.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+
+    - title: Arrebol # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a458cb8da5c8b6ea14.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+
+    - title: jsjsj # 名称
+      avatar: https://pic1.imgdb.cn/item/6829c0ec58cb8da5c8fb15ca.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+
+    - title: 南行 # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e1958cb8da5c8b69998.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '菜狗兼懒狗，日常水漏洞' # 描述
+
+    - title: sleep # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e0f58cb8da5c8b69928.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '片刻的宁静即是永恒' # 描述
+
+    - title: jfkk # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e1058cb8da5c8b6993a.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '   ' # 描述
+
+    - title: 1ens # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e0f58cb8da5c8b6992a.jpg # 头像
+      url: https://1ens.github.io/ # 链接
+      description: '风雨不动安如山' # 描述
+
+    - title: 老徐 # 名称
+      avatar: https://pic1.imgdb.cn/item/68771df158cb8da5c8b697b2.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '光锥之内皆是命运' # 描述
+
+    - title: rubbishzyc # 名称
+      avatar: https://pic1.imgdb.cn/item/6877102b58cb8da5c8b628cc.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '   ' # 描述
+
+- group: 团队支持小组 # 分组标题
+  description: # 分组描述
+  items:
+    - title: rainki # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a458cb8da5c8b6ea11.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+    - title: 水母 # 名称
+      avatar: https://pic.imgdb.cn/item/65c596909f345e8d03aff30f.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '好好学习' # 描述
+    - title: Swizzer # 名称
+      avatar: https://pic.imgdb.cn/item/65c5969e9f345e8d03b00b7f.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+    - title: TBK # 名称
+      avatar: https://pic.imgdb.cn/item/65c596989f345e8d03b000df.jpg # 头像
+      url: https://blog.csdn.net/qq_43390703 # 链接
+      description: '嘿嘿嘿，阿巴阿巴' # 描述
+    - title: 安修 # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a458cb8da5c8b6ea15.jpg # 头像
+      url: https://anxiu.cloud # 链接
+      description: '     ' # 描述
+    - title: fishcanf1y # 名称
+      avatar: https://pic1.imgdb.cn/item/687513e258cb8da5c8adb527.jpg # 头像
+      url: https://fishcanf1y.github.io # 链接
+      description: '啾咪~' # 描述
+    - title: To0of # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a358cb8da5c8b6ea10.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+    - title: EthanC # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a358cb8da5c8b6ea0f.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '     ' # 描述
+
+
+- group: AI小组(独角鲸) # 分组标题
+  description: # 分组描述
+  items:
+    - title: 理想 # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e1858cb8da5c8b6998d.png # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '进一寸有一寸的欢喜' # 描述
+
+    - title: alexghost # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e0e58cb8da5c8b69922.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: 'It is never too late to be what you might have been.' # 描述
+
+    - title: duck_yin # 名称
+      avatar: https://pic1.imgdb.cn/item/68771dcd58cb8da5c8b6960d.jpg # 头像
+      url: https://duckyin.github.io/ # 链接
+      description: '   ' # 描述
+
+    - title: weibin # 名称
+      avatar: https://pic1.imgdb.cn/item/68771dcd58cb8da5c8b69610.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '努力学习' # 描述
+
+    - title: KK # 名称
+      avatar: https://pic1.imgdb.cn/item/68771dc758cb8da5c8b695ca.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '努力学习' # 描述
+
+    - title: 1ndigo # 名称
+      avatar: https://pic1.imgdb.cn/item/6877120058cb8da5c8b631dc.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '不被情绪作怪无理打乱' # 描述
+
+    - title: littlebird # 名称
+      avatar: https://pic1.imgdb.cn/item/687725a458cb8da5c8b6ea13.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '大道至简' # 描述
+
+    - title: WeiguangTWK # 名称
+      avatar: https://pic1.imgdb.cn/item/68771e1958cb8da5c8b69995.jpg # 头像
+      url: https://securenexuslab.github.io/ # 链接
+      description: '本科毕业，技术菜狗， i18n强迫症，NekoHyper官改维护者' # 描述
