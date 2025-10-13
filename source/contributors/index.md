@@ -19,7 +19,7 @@ edusrc 总提交漏洞数量： 97 | 江西财经大学、同济大学、辽宁�
 - 高危漏洞18个，低中危漏洞80+
 - cnvd20+ 3 cve
 - 360众测
-- HACK@Data 硬件安全竞赛 冠军(@HASS Lab) 季军(@SecureNexusLab)
+- HACK@DATE 硬件安全竞赛 冠军(@HASS Lab) 季军(@SecureNexusLab)
 - 联合腾讯举办 —— 腾讯AIGC识别对抗挑战赛
 - 联合 朱雀 & 悟空安全 举办 —— 大模型引擎计划全球实训营
 
